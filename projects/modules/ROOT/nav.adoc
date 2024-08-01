@@ -1,5 +1,3 @@
 .xref:main.adoc[Main Page]
-
-.xref:internship-project/i-project.adoc[Internship Projects]
-
-.xref:school-project/s-project.adoc[School Projects]
+* xref:internship-project/i-project.adoc[Internship Projects]
+* xref:school-project/s-project.adoc[School Projects]

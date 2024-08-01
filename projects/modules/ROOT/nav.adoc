@@ -1,0 +1,3 @@
+.xref:internship-project/i-project.adoc[Internship]
+
+.xref:school-project/s-project.adoc[School]

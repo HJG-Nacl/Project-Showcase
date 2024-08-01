@@ -1,0 +1,10 @@
+name: projects
+title: Project Showcase
+version: ~
+start_page: ROOT:main.adoc
+nav:
+  - modules/ROOT/nav.adoc
+asciidoc:
+  attribtues:
+   source-language: asciidoc@
+   table-caption: false

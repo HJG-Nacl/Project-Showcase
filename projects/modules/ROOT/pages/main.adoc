@@ -1,2 +1,4 @@
 # Welcome to my project showcase!
+ 
 This pages lies all my projects from school and internships
+

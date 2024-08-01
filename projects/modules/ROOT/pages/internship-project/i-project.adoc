@@ -3,7 +3,11 @@
 
 == Antora Documentation Website
 
+=== Description
 For the internship during summer, I integrated a documentation collection website which is represented here. This documentation website is integrated with Github Actions which auto updates website everytime there is a push.
+
+=== Technical Skills earned
+I gained significant knowledge into setting up documentation collection website for the repository. I worked on setting up website for the organization where if the program is set up in one repository, it has an ability to pull documents from other repository which then publish into one site automatically. 
 
 == Unit Transaction Generator
 
@@ -11,5 +15,5 @@ For the internship during summer, I integrated a documentation collection websit
 I was able to aid in the development of new verification menthodology for the AMD verification team. I cannot discuss the details, but the program accelerated the development process. The original program took 4 hours, while my program took 56 seconds which is 220 times faster than original.
 
 === Technical Skills Earned
-The python was object oriented with classes, 
+The python program is built using object oriented programming. It has integrated ability to read and parse json, data analysis using SQLite, and data generation capability in txt format.
 

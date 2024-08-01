@@ -1,4 +1,9 @@
-# Welcome to my project showcase!
+= Welcome to my project showcase!
  
-This pages lies all my projects from school and internships
+This pages lies all my projects from school and internships!
 
+== xref:internship-project/i-project.adoc[Internship Projects]
+Outlines projects I have accomplished during internships
+
+== xref:school-project/s-project.adoc[College Projects]
+Outlines projects I have done during school
